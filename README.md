@@ -2,11 +2,11 @@
 Materials for hackathon hack-ai.ru, cardiovascular risk evaluation.
 
 Репозиторий содержит в себе следующие файлы:
-data - папка с файлами
-submits - папка с предыдущими сабмитами на сайт
-demography_data - небольшой дополнительный файл для презентации
-instructions.pdf - инструкции к выполнению задания
-presentation_LisovskiiDA.pdf - презентация с описанием рабоыт модели
+- data - папка с файлами
+- submits - папка с предыдущими сабмитами на сайт
+- demography_data - небольшой дополнительный файл для презентации
+- instructions.pdf - инструкции к выполнению задания
+- presentation_LisovskiiDA.pdf - презентация с описанием рабоыт модели
 
 
 Ноутбуки:
